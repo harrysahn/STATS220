@@ -2,7 +2,7 @@
 ## How I created the zombie brain meme...
 
 Bit of background before diving in the code.
-The motivation for this meme was to serve as a reminder for students with *more than one deadline* to pace themselves and make sure not to leave everything until the due date!
+The motivation for this meme was to serve as a reminder for students ~~and myself~~ with *more than one deadline* to pace themselves and make sure not to leave everything until the due date!
 
 **Always start earlier and avoid unnecessary stress!**
 
