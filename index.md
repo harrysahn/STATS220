@@ -32,7 +32,7 @@ The image_blank() function gives us so much freedom to customise and create some
 
 [The original source for the meme.](https://i.redd.it/lsxawxwo3ln31.png)
 
-Without further ado, you can click [this](https://i.ibb.co/mzNy7Fk/zombie-brain-meme.png) to access my version of the meme, or [here](https://github.com/harrysahn/STATS220/blob/main/zombie_brain_meme.png)
+Without further ado, you can click [this](https://i.ibb.co/mzNy7Fk/zombie-brain-meme.png) to access my version of the meme, or [here!](https://github.com/harrysahn/STATS220/blob/main/zombie_brain_meme.png)
 
 ```{r}
 library(magick)
