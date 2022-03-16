@@ -1,4 +1,22 @@
-https://i.ibb.co/mzNy7Fk/zombie-brain-meme.png
+# Creating the zombie brain meme!
+## How I created the zombie brain meme...
+
+Bit of background before diving in the code.
+The motivation for this meme was to serve as a reminder for students with *more than one deadline* to pace themselves and make sure not to leave everything until the due date!
+
+**Always start earlier and avoid unnecessary stress!**
+
+The meme also shows the 4 steps from being a bad student to becoming a great one:
+1. Procrastinator
+2. Kind of having an idea of needing to start early
+3. Doing the right thing and starting early
+4. Ideal student
+
+There are two main components of the meme:
+- The zombies from 'Plants vs Zombies'
+- Accompanying text
+
+You can click [this](https://i.ibb.co/mzNy7Fk/zombie-brain-meme.png) to access the meme, or scroll below the code snippet to preview the meme right on this page!
 
 ```{r}
 library(magick)
@@ -79,3 +97,4 @@ final_meme <- image_append(image_scale(final_meme_almost, "750"), stack = TRUE)
 
 image_write(final_meme, "zombie_brain_meme.png")
 ```
+
