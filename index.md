@@ -16,7 +16,21 @@ There are two main components of the meme:
 - The zombies from 'Plants vs Zombies'
 - Accompanying text
 
-You can click [this](https://i.ibb.co/mzNy7Fk/zombie-brain-meme.png) to access the meme, or scroll below the code snippet to preview the meme right on this page!
+My favourite line of code is: 
+`
+blue_rec1 <- image_blank(width = 400,
+            height = 200,
+            color = "#96B3F3") %>%
+  image_annotate(text = "Leaving assignments
+til the day before
+the due date.",
+               gravity = 'center',
+               font = 'Helvetica',
+               size = "21", color = "#313131", weight = "550")
+`
+The image_blank() function gives us so much freedom to customise and create something from scratch - such a powerful piece of code! I'm hoping to add more customisations and explore the full potential of this function in the future 😎.
+
+Without further ado, you can click [this](https://i.ibb.co/mzNy7Fk/zombie-brain-meme.png) to access the meme, or scroll below the code snippet to preview the meme right on this page!
 
 ```{r}
 library(magick)
