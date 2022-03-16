@@ -30,7 +30,7 @@ the due date.",
 `
 The image_blank() function gives us so much freedom to customise and create something from scratch - such a powerful piece of code! I'm hoping to add more customisations and explore the full potential of this function in the future 😎.
 
-[The original source for the meme](https://i.redd.it/lsxawxwo3ln31.png)
+[The original source for the meme.](https://i.redd.it/lsxawxwo3ln31.png)
 
 Without further ado, you can click [this](https://i.ibb.co/mzNy7Fk/zombie-brain-meme.png) to access my version of the meme, or [here](https://github.com/harrysahn/STATS220/blob/main/zombie_brain_meme.png)
 
