@@ -8,9 +8,9 @@ The motivation for this meme was to serve as a reminder for students with *more 
 
 The meme also shows the 4 steps from being a bad student to becoming a great one:
 1. Procrastinator
-2. Kind of having an idea of needing to start early
+2. Kind of having an idea of what to do
 3. Doing the right thing and starting early
-4. Ideal student
+4. The ideal student
 
 There are two main components of the meme:
 - The zombies from 'Plants vs Zombies'
