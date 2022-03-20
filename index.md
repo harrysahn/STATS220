@@ -17,6 +17,7 @@ There are two main components of the meme:
 - Accompanying text
 
 My favourite line of code is: 
+
 `
 blue_rec1 <- image_blank(width = 400,
             height = 200,
@@ -28,6 +29,7 @@ the due date.",
                font = 'Helvetica',
                size = "21", color = "#313131", weight = "550")
 `
+
 The image_blank() function gives us so much freedom to customise and create something from scratch - such a powerful piece of code! I'm hoping to add more customisations and explore the full potential of this function in the future 😎.
 
 [The original source for the meme.](https://i.redd.it/lsxawxwo3ln31.png)
